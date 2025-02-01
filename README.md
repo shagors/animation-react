@@ -1,8 +1,19 @@
-# React + Vite
+### This website copy of https://zentry.com/ this website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### If you want to run this in your machine then first clone this project then use this command `npm install` after use this command then use this command for run this project `npm run dev`.
 
-Currently, two official plugins are available:
+Live Website(https://zentry-game-bay.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+My Portfolio(https://shajjad-dev.vercel.app/)
+
+#### Technology what I used here
+
+    * React
+    * tailwindcss
+    * GSAP for animation
+    * gsap react
+    * clsx for custom css
+    * react-icons
+    * react-use
+
+![preview img](/zentry-clone.png)
